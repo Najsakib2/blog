@@ -1,0 +1,19 @@
+nav {
+  background-color: aqua;
+}
+nav img {
+  width: 145px;
+  margin-left: -39px;
+}
+nav ul {
+  float: right;
+  list-style-type: none;
+}
+ul li {
+  display: inline-block;
+  padding: 10px;
+}
+li a {
+  color: white;
+  text-decoration: none;
+}

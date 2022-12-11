@@ -7,7 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'style Binding';
-  user = ['sakib', 'nazil', 'rakib', 'nafis'];
   bgColor = 'red';
   ok = 'orange';
   updateColor() {
